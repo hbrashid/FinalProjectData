@@ -1,0 +1,19 @@
+{
+  "name": "finalprojectdata",
+  "version": "1.0.0",
+  "description": "Health App:  -Tracks water intake and sunlight exposure (Vitamin D), to determine well-being for the day. -Each user will have one input of water intake and one input of sunlight intake, in total, per day. -This will then flow to a 'total energy' measurement.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbrashid/FinalProjectData.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hbrashid/FinalProjectData/issues"
+  },
+  "homepage": "https://github.com/hbrashid/FinalProjectData#readme"
+}
